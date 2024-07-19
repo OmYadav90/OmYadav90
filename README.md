@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OmYadav90&label=Profile%20views&color=0e75b6&style=flat" alt="OmYadav90" /> </p>
 
-- 🌱 I’m currently Working **SQL, python, Tableau, Power BI, Advance Excel.**
+- 🌱 I’m currently Working **Python, SQL, R, Power BI, Tableau, Advance Excel.**
 
 - 📫 How to reach me **omyad90@gmail.com**
 
